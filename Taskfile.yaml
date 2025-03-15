@@ -1,0 +1,7 @@
+version: '3'
+
+tasks:
+  hello-from-taskfile:
+    desc: "Hello from Taskfile"
+    cmds:
+      - echo 'Hello from Taskfile!👋'
