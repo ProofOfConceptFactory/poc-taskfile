@@ -7,6 +7,7 @@ Requirements
 ------------
 
 * [Taskfile][1]
+* [Bats][2]
 
 Installation
 ------------
@@ -43,7 +44,8 @@ Execute this command to run tests:
 test/bats/bin/bats test.bats
 ```
 
-If you want to know more about bats, you can check [Bats][2].
+If you want to know more about bats, you can check Bats documentation.
 
 [1]: https://taskfile.dev/installation/
-[2]: https://bats-core.readthedocs.io/en/stable/
+[2]: https://bats-core.readthedocs.io/en/stable/installation.html
+
