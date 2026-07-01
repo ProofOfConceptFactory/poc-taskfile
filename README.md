@@ -14,7 +14,7 @@ Installation
 Clone this repository:
 
 ```console
-https://github.com/ProofOfConceptFactory/poc-taskfile
+git clone https://github.com/ProofOfConceptFactory/poc-taskfile
 ```
 
 Go on the project root folder:
